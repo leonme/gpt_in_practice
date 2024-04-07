@@ -77,7 +77,6 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-.ipynb_checkpoints/1. 第一个大模型程序｜Hello GPT-checkpoint.ipynb
 .idea/vcs.xml
 .idea/modules.xml
 .idea/misc.xml
@@ -85,6 +84,4 @@ fabric.properties
 .idea/gpt_in_practice.iml
 .idea/checkstyle-idea.xml
 .ipynb_checkpoints/SAP Generative AI Hub-checkpoint.ipynb
-.ipynb_checkpoints/1. 第一个大模型程序｜Hello GPT-checkpoint.ipynb
-.ipynb_checkpoints/1. 第一个大模型程序｜Hello GPT-checkpoint.ipynb
 /.ipynb_checkpoints
